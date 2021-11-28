@@ -2,7 +2,7 @@
 
 He is a Ph.D. student of Computer Science at Sun Yat-sen University, supervised by Prof. [Liang Lin](http://www.linliang.net/). He received a B.E. degree of Computer Science at Sun Yat-sen University in 2020. 
 
-Currently, he's working on 1) visual understanding, including visual reasoning, visual component parsing & visual relationship detection, and 2) learning with limited labels, including unsupervised learning & learning with partial/noisy/long-tail labels.
+Currently, he's working on 1) **visual understanding**, including visual reasoning, visual component parsing & visual relationship detection, and 2) **learning with limited labels**, including unsupervised learning, weakly-supervised learning & learning with partial/noisy/long-tail labels.
 
 
 <div align=center>
