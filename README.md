@@ -1,3 +1,24 @@
+<h2>About Me</h2> <hr />
+
+I'm a second-year Ph.D. student of Computer Science at Sun Yat-sen University, supervised by Prof.<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>. I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.   
+          
+My main research interests lie in machine learning and its applications for computer vision. In particular, I am interested in <br>
+1) **Visual Understaning**
+- Visual Reasoning
+- Visual Component Parsing
+- Visual Relationship Detection
+
+2) **Learning with Limited Labels**
+- Unsupervised Learning
+- Weakly-supervised Learning
+- Learning with Partial/Noisy/Long-tail Labels
+
+          
+<h4><font color='red'>
+  Feel free to reach me if you have research interests similar to mine! <br>
+  I am open for collaboration and internship positions (also full-time positions after 2025)!
+</font></h4>
+
 ### Biography
 
 He is a Ph.D. student of Computer Science at Sun Yat-sen University, supervised by Prof. [Liang Lin](http://www.linliang.net/). He received a B.E. degree of Computer Science at Sun Yat-sen University in 2020. 
