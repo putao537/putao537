@@ -1,4 +1,4 @@
-<h2>About Me</h2> <hr />
+## About Me
 
 I'm a second-year Ph.D. student of Computer Science at Sun Yat-sen University, supervised by Prof.<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>. I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.   
           
@@ -13,8 +13,8 @@ My main research interests lie in machine learning and its applications for comp
 - Weakly-supervised Learning
 - Learning with Partial/Noisy/Long-tail Labels
         
-### Feel free to reach me if you have research interests similar to mine!  
-### I am open for collaboration and internship positions (also full-time positions after 2025)!  
+#### Feel free to reach me if you have research interests similar to mine!  
+#### I am open for collaboration and internship positions (also full-time positions after 2025)!  
           
 <div align=center>
   <img src='./Figures/WeChat.png' width="50%" />
