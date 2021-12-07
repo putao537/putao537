@@ -14,17 +14,8 @@ My main research interests lie in machine learning and its applications for comp
 - Learning with Partial/Noisy/Long-tail Labels
 
           
-<h4><font color='red'>
-  Feel free to reach me if you have research interests similar to mine! <br>
-  I am open for collaboration and internship positions (also full-time positions after 2025)!
-</font></h4>
-
-### Biography
-
-He is a Ph.D. student of Computer Science at Sun Yat-sen University, supervised by Prof. [Liang Lin](http://www.linliang.net/). He received a B.E. degree of Computer Science at Sun Yat-sen University in 2020. 
-
-Currently, he's working on 1) **visual understanding**, including visual reasoning, visual component parsing & visual relationship detection, and 2) **learning with limited labels**, including unsupervised learning, weakly-supervised learning & learning with partial/noisy/long-tail labels.
-
+<font color='red'>Feel free to reach me if you have research interests similar to mine!</font>
+<font color='red'>I am open for collaboration and internship positions (also full-time positions after 2025)!</font>
 
 <div align=center>
   <img src='./Figures/WeChat.png' width="50%" />
