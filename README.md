@@ -12,11 +12,10 @@ My main research interests lie in machine learning and its applications for comp
 - Unsupervised Learning
 - Weakly-supervised Learning
 - Learning with Partial/Noisy/Long-tail Labels
-
-<div>          
+        
 <font color=red>Feel free to reach me if you have research interests similar to mine!</font>
 <font color=red>I am open for collaboration and internship positions (also full-time positions after 2025)!</font>
-</div>
+
           
 <div align=center>
   <img src='./Figures/WeChat.png' width="50%" />
