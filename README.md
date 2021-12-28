@@ -1,6 +1,6 @@
 ## About Me ![](https://visitor-badge.glitch.me/badge?page_id=putao537.putao537)
 
-I'm a second-year Ph.D. student of Computer Science at Sun Yat-sen University, supervised by Prof.<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>. I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.   
+I'm a second-year Ph.D. student of Computer Science at Sun Yat-sen University, adviced by Prof.<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>. I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.   
           
 My main research interests lie in machine learning and its applications for computer vision. In particular, I am interested in <br>
 1) **Visual Understaning**
