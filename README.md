@@ -4,9 +4,9 @@ I'm a second-year Ph.D. student of Computer Science at Sun Yat-sen University, a
           
 My main research interests lie in machine learning and its applications for computer vision. In particular, I am interested in <br>
 1) **Visual Understaning**
-- Video Analysis
-- Visual Reasoning
-- Visual Relationship Detection
+- Video Visual Reasoning
+- Video Visual Relationship Detection
+- Video Question Answering
 
 2) **Cognitive Reasoning**
 - Casual Inference
