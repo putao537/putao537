@@ -12,7 +12,6 @@ My main research interests lie in machine learning and its applications for comp
 - Casual Inference
         
 #### Feel free to reach me if you have research interests similar to mine!  
-#### I am open for collaboration and internship positions (also full-time positions after 2025)!  
           
 <div align=center>
   <img src='./Figures/WeChat.png' width="50%" />
