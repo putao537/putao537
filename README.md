@@ -12,10 +12,6 @@ My main research interests lie in machine learning and its applications for comp
 - Casual Inference
         
 #### Feel free to reach me if you have research interests similar to mine!  
-          
-<div align=center>
-  <img src='./Figures/WeChat.png' width="50%" />
-</div>
 
 <div align=center>
   <a href="https://www.zhihu.com/people/putao537"><img src="https://img.shields.io/badge/知乎-blue" alt=""></a> <a href="https://space.bilibili.com/11722513"><img src="https://img.shields.io/badge/Bilibili-blue" alt=""></a>
