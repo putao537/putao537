@@ -12,7 +12,3 @@ My main research interests include **Computer Vision** and **Machine Learning**.
 - Deep Reinforcement Learning
         
 #### Feel free to reach me if you have research interests similar to mine!  
-
-<div align=center>
-  <a href="https://www.zhihu.com/people/putao537"><img src="https://img.shields.io/badge/知乎-blue" alt=""></a> <a href="https://tao-pu.site"><img src="https://img.shields.io/badge/Notion-blue" alt=""></a>
-</div>
