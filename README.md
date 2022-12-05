@@ -6,5 +6,6 @@ My main research interests include **Computer Vision** and **Machine Learning**.
 - Holistic Scene Parsing
 - Knowledge Reasoning
 - Autonomous Robotics
-- 
-#### Feel free to reach me if you have research interests similar to mine! Also, I am open for collaboration and internship positions (also full-time positions after 2025)!
+
+#### Feel free to reach me if you have research interests similar to mine! 
+#### Also, I am open for collaboration and internship positions (also full-time positions after 2025)!
