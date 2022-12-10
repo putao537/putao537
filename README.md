@@ -1,3 +1,22 @@
+<head>
+    <style>
+
+    .vertical-snap {
+      margin: 0 auto;
+      display: grid;
+      grid-auto-flow: row;
+      gap: 1rem;
+      width: calc(180px + 1rem);
+      padding: 1rem;
+      height: 480px;
+      overflow-y: auto;
+      overscroll-behavior-y: contain;
+      scroll-snap-type: y mandatory;
+    }
+
+    </style>
+</head>
+
 ### Hi there :hand:
 
 [![Blog](https://img.shields.io/badge/blog-tao-9cf?style=flat-square)](https://tao-pu.site)
