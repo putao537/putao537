@@ -7,7 +7,8 @@
 
 <br />
 
-I'm [Tao PU](https://tao-pu.site) <a href="https://tao-pu.site" target="_blank">Tao Pu</a>, a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>. Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).
+I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.[Liang Lin](http://www.linliang.net).
+Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).
 
 #### 🔨 Coding Activities
 
@@ -15,6 +16,9 @@ I'm [Tao PU](https://tao-pu.site) <a href="https://tao-pu.site" target="_blank">
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/putao537?style=flat-square)](https://github.com/putao537)
+
+#### Research Interests
+
 
 - 💼 Love open-source
 - 💬 Ask me about anything, [email me](mailto:pseudoyu@connect.hku.hk)
