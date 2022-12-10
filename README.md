@@ -7,7 +7,7 @@
 
 <br />
 
-I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.[Liang Lin](http://www.linliang.net).   
+I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.[Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
 Currently working for **Computer Vision** and **Machine Learning**.   
 Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).  
 
@@ -20,18 +20,9 @@ Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter
 
 #### :microscope: Research Activities
 
-![xxx](https://img.shields.io/badge/Scene-Parsing-9cf?style=flat-square)
-
-
-- 💼 Love open-source
-- 💬 Ask me about anything, [email me](mailto:pseudoyu@connect.hku.hk)
-
-I'm a third-year Ph.D. student of Computer Science at Sun Yat-sen University, advised by Prof.<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>. Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.   
-          
-My main research interests include **Computer Vision** and **Machine Learning**. In particular, I am interested in <br>
-- Holistic Scene Parsing
-- Knowledge Reasoning
-- Autonomous Robotics
+![Holistic Scene Parsing](https://img.shields.io/badge/Scene-Parsing-9cf?style=flat-square)
+![Knowledge Reasoning](https://img.shields.io/badge/Knowledge-Reasoning-9cf?style=flat-square)
+![Autonomous Robotics](https://img.shields.io/badge/Autonomous-Robotics-9cf?style=flat-square)
 
 #### Feel free to reach me if you have research interests similar to mine! 
 #### Also, I am open for collaboration and internship positions (also full-time positions after 2025)!
