@@ -6,8 +6,7 @@
 [![Visits Badge](https://badges.strrl.dev/visits/putao537/putao537?style=flat-square)](https://github.com/putao537)
 
 I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.[Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
-Currently working for **Computer Vision** and **Machine Learning**.   
-Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).  
+Currently working on **Computer Vision** and **Machine Learning**. Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).  
 
 #### :microscope: Research Activities
 
