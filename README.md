@@ -20,7 +20,3 @@ Currently working on **Computer Vision** and **Machine Learning**. Follow me on 
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/putao537?style=flat-square)](https://github.com/putao537)
-
-
-#### Feel free to reach me if you have research interests similar to mine! 
-#### Also, I am open for collaboration and internship positions (also full-time positions after 2025)!
