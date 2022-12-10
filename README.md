@@ -20,3 +20,16 @@ Currently working on **Computer Vision** and **Machine Learning**. Follow me on 
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/putao537?style=flat-square)](https://github.com/putao537)
+
+.vertical-snap {
+  margin: 0 auto;
+  display: grid;
+  grid-auto-flow: row;
+  gap: 1rem;
+  width: calc(180px + 1rem);
+  padding: 1rem;
+  height: 480px;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  scroll-snap-type: y mandatory;
+}
