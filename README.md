@@ -7,7 +7,7 @@
 
 <br />
 
-I'm <a href="https://tao-pu.site" target="_blank">Tao Pu</a>, a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>. Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).
+I'm [Tao PU](https://tao-pu.site) <a href="https://tao-pu.site" target="_blank">Tao Pu</a>, a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>. Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).
 
 #### 🔨 Coding Activities
 
