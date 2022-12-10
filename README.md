@@ -7,8 +7,9 @@
 
 <br />
 
-I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.[Liang Lin](http://www.linliang.net).
-Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).
+I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof.[Liang Lin](http://www.linliang.net).   
+Currently working for **Computer Vision** and **Machine Learning**.   
+Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).  
 
 #### 🔨 Coding Activities
 
