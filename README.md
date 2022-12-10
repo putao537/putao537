@@ -1,4 +1,4 @@
-### Hi there ✋:hand:
+### Hi there :hand:
 
 [![Blog](https://img.shields.io/badge/blog-tao-9cf?style=flat-square)](https://tao-pu.site)
 [![GitHub](https://img.shields.io/github/followers/putao537?logo=github&style=flat-square)](https://github.com/putao537)
@@ -11,14 +11,16 @@ I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Scienc
 Currently working for **Computer Vision** and **Machine Learning**.   
 Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter.com/TaoPu537).  
 
-#### 🔨 Coding Activities
+#### :computer: Coding Activities
 
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/putao537?style=flat-square)](https://github.com/putao537)
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/putao537?style=flat-square)](https://github.com/putao537)
 
-#### Research Interests
+#### :microscope: Research Activities
+
+![xxx](https://img.shields.io/badge/Holistic Scene Parsing-9cf?style=flat-square)
 
 
 - 💼 Love open-source
