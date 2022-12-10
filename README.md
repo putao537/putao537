@@ -1,5 +1,4 @@
-<head>
-    <style>
+<style>
 
     .vertical-snap {
       margin: 0 auto;
@@ -13,9 +12,8 @@
       overscroll-behavior-y: contain;
       scroll-snap-type: y mandatory;
     }
+</style>
 
-    </style>
-</head>
 
 ### Hi there :hand:
 
