@@ -20,7 +20,7 @@ Follow me on [GitHub](https://github.com/putao537) and [Twitter](https://twitter
 
 #### :microscope: Research Activities
 
-![xxx](https://img.shields.io/badge/Holistic Scene Parsing-9cf?style=flat-square)
+![xxx](https://img.shields.io/badge/Holistic-Scene-Parsing-9cf?style=flat-square)
 
 
 - 💼 Love open-source
