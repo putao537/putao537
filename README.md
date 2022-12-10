@@ -21,15 +21,15 @@ Currently working on **Computer Vision** and **Machine Learning**. Follow me on 
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/putao537?style=flat-square)](https://github.com/putao537)
 
-.vertical-snap {
-  margin: 0 auto;
-  display: grid;
-  grid-auto-flow: row;
-  gap: 1rem;
-  width: calc(180px + 1rem);
-  padding: 1rem;
-  height: 480px;
-  overflow-y: auto;
-  overscroll-behavior-y: contain;
-  scroll-snap-type: y mandatory;
-}
+
+<div class="vertical-snap">
+  <a href="#"><img src="https://picsum.photos/id/1067/640/640"></a>
+  <a href="#"><img src="https://picsum.photos/id/122/640/640"></a>
+  <a href="#"><img src="https://picsum.photos/id/188/640/640"></a>
+  <a href="#"><img src="https://picsum.photos/id/249/640/640"></a>
+  <a href="#"><img src="https://picsum.photos/id/257/640/640"></a>
+  <a href="#"><img src="https://picsum.photos/id/259/640/640"></a>
+  <a href="#"><img src="https://picsum.photos/id/283/640/640"></a>
+  <a href="#"><img src="https://picsum.photos/id/288/640/640"></a>
+  <a href="#"><img src="https://picsum.photos/id/299/640/640"></a>
+</div>
