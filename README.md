@@ -12,8 +12,8 @@ Currently working on **Computer Vision** and **Machine Learning**, including Hol
 
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Swift](https://img.shields.io/badge/-Swift-%23FA7343?style=flat-square&logo=swift&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/-PyTorch-%DB443A?style=flat-square&logo=pytorch&logoColor=ffffff)
-
+![PyTorch](https://img.shields.io/badge/-PyTorch-DB443A?style=flat-square&logo=pytorch&logoColor=ffffff)
+#db443a
 ### 𝗦𝘁𝗮𝘁𝘀
 ![Tao Pu's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=putao537&count_private=true&show_icons=true)
 
