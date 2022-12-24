@@ -5,7 +5,7 @@
 [![Google Scholar](https://img.shields.io/badge/--%23000000?style=flat&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=cBRGYzYAAAAJ)
 [![Visit Count](https://badges.strrl.dev/visits/putao537/putao537?style=flat-square)](https://github.com/putao537)
 
-I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof. [Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
+I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
 Currently working on **Computer Vision** and **Machine Learning**, including Holistic Scene Parsing, Knowledge Reasoning, Autonomous Robotics.
 
 ### 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
