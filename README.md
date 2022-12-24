@@ -8,6 +8,10 @@
 I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University (SYSU), advised by Prof. [Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
 Currently working on **Computer Vision** and **Machine Learning**, including Holistic Scene Parsing, Knowledge Reasoning, Autonomous Robotics.
 
+### 𝗦𝘁𝗮𝘁𝘀
+![Tao Pu's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=putao537&count_private=true&show_icons=true)
+
+<!---
 #### :microscope: Research Activities
 
 ![Holistic Scene Parsing](https://img.shields.io/badge/Scene-Parsing-9cf?style=flat-square)
@@ -20,3 +24,4 @@ Currently working on **Computer Vision** and **Machine Learning**, including Hol
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/putao537?style=flat-square)](https://github.com/putao537)
+--->
