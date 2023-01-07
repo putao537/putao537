@@ -6,7 +6,7 @@
 [![Visit Count](https://badges.strrl.dev/visits/putao537/putao537?style=flat-square)](https://github.com/putao537)
 
 I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
-Currently working on **Computer Vision** and **Machine Learning**, including Holistic Scene Parsing, Knowledge Reasoning, Autonomous Robotics.
+Currently working on **Computer Vision** and **Machine Learning**, including Holistic Scene Understanding, Knowledge Reasoning, Autonomous Robotics.
 
 ### 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
