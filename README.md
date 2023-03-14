@@ -1,7 +1,4 @@
 ## Hello I'm Tao Pu. 
-
-[![Twitter](https://img.shields.io/badge/--%23000000?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/TaoPu537)
-[![Github](https://img.shields.io/badge/--%23000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/putao537)
 [![Google Scholar](https://img.shields.io/badge/--%23000000?style=flat&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=cBRGYzYAAAAJ)
 [![Visit Count](https://badges.strrl.dev/visits/putao537/putao537?style=flat-square)](https://github.com/putao537)
 
