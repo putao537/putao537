@@ -1,9 +1,6 @@
 ## Hello I'm Tao Pu. 
-[![](https://img.shields.io/badge/Academic-Homepage-black?style=flat)](tao-pu.site)
-
-
-[![Google Scholar](https://img.shields.io/badge/-Google Scholar-%23000000?style=flat&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=cBRGYzYAAAAJ)
-[![Visit Count](https://badges.strrl.dev/visits/putao537/putao537?style=flat-square)](https://github.com/putao537)
+[![](https://img.shields.io/badge/Academic-Homepage-blue?style=flat)](tao-pu.site)
+[![](https://img.shields.io/badge/Tech-Resume-green?style=flat)](tao-pu.site)
 
 I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
 Currently working on **Computer Vision** and **Machine Learning**, including Holistic Scene Understanding, Knowledge Reasoning, Autonomous Robotics.
@@ -29,4 +26,3 @@ Currently working on **Computer Vision** and **Machine Learning**, including Hol
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/putao537?style=flat-square)](https://github.com/putao537)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/putao537?style=flat-square)](https://github.com/putao537)
---->
