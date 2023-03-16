@@ -1,4 +1,4 @@
-## Hello I'm Tao Pu. 
+## Hi there ✋
 [![](https://img.shields.io/badge/Academic-Homepage-blue?style=flat)](https://tao-pu.site/)
 [![](https://img.shields.io/badge/Tech-Resume-green?style=flat)](https://putao537.github.io/)
 
