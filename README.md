@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/Academic-Homepage-blue?style=flat)](https://tao-pu.site/)
 [![](https://img.shields.io/badge/Personal-Blog-green?style=flat)](https://putao537.github.io/)
 [![](https://img.shields.io/badge/Tech-Resume-green?style=flat)](https://putao537.github.io/)
+<!-- updated by https://jsoncv.reorx.com/editor/ -->
 
 I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
 Currently working on **Computer Vision** and **Machine Learning**, including Holistic Scene Understanding, Knowledge Reasoning, Autonomous Robotics.
