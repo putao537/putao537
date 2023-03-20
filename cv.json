@@ -1,0 +1,55 @@
+{
+  "$schema": "",
+  "basics": {
+    "name": "Tao Pu",
+    "image": "",
+    "email": "putao537@gmail.com",
+    "phone": "(+86) 15622798338",
+    "url": "tao-pu.site",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Guangzhou",
+      "countryCode": "China",
+      "region": ""
+    },
+    "profiles": [],
+    "label": ""
+  },
+  "education": [
+    {
+      "institution": "Sun Yat-sen University",
+      "url": "www.sysu.edu.cn",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2016-09-01",
+      "endDate": "2020-06-01"
+    },
+    {
+      "institution": "Sun Yat-sen University",
+      "url": "www.sysu.edu.cn",
+      "area": "Computer Science",
+      "studyType": "Ph.D",
+      "startDate": "2020-09-01",
+      "endDate": ""
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "meta": {
+    "canonical": "",
+    "version": "",
+    "lastModified": "2023-03-14T11:31:07+08:00Z",
+    "name": ""
+  },
+  "work": [],
+  "volunteer": [],
+  "certificates": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "sideProjects": []
+}
