@@ -46,8 +46,34 @@
   "work": [],
   "volunteer": [],
   "certificates": [],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "AI Research",
+      "keywords": [
+        "PyTorch",
+        "Numpy",
+        "Python"
+      ]
+    },
+    {
+      "name": "Backend Dev",
+      "keywords": [
+        "Git",
+        "Python",
+        "C++"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluency"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+  ],
   "interests": [],
   "references": [],
   "projects": [],
