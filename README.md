@@ -1,11 +1,13 @@
 ## Hi there ✋
-[![](https://img.shields.io/badge/Academic-Homepage-blue?style=flat)](https://tao-pu.site/)
-[![](https://img.shields.io/badge/Personal-Blog-green?style=flat)](https://putao537.github.io/)
-[![](https://img.shields.io/badge/Tech-Resume-green?style=flat)](https://putao537.github.io/)
-<!-- updated by https://jsoncv.reorx.com/editor/ -->
 
-I'm [Tao Pu](https://tao-pu.site), a third-year Ph.D. student of Computer Science at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net). Before that, I got my Bachelor's degree of Computer Science at Sun Yat-sen University in 2020.      
-Currently working on **Computer Vision** and **Machine Learning**, including Holistic Scene Understanding, Knowledge Reasoning, Autonomous Robotics.
+- 😄 This is Tao Pu, 蒲韬 in Chinese.
+- 🏫 I am a Ph.D. student of Computer Science at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net).
+<!-- 🏢 I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/). -->
+- 📫 Email: putao3@mail2.sysu.edu.cn; putao537@gmail.com
+- 📖 homepage: https://tao-pu.site
+
+<!-- [![](https://img.shields.io/badge/Tech-Resume-green?style=flat)](https://putao537.github.io/) -->
+<!-- updated by https://jsoncv.reorx.com/editor/ -->
 
 ### 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
