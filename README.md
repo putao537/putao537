@@ -4,7 +4,6 @@
 - 🏫 I am a Ph.D. student of Computer Science at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net).
 <!-- 🏢 I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/). -->
 - 📫 Email: putao3@mail2.sysu.edu.cn; putao537@gmail.com
-- 📖 homepage: https://tao-pu.site
 
 <!-- [![](https://img.shields.io/badge/Tech-Resume-green?style=flat)](https://putao537.github.io/) -->
 <!-- updated by https://jsoncv.reorx.com/editor/ -->
