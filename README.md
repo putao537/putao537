@@ -2,10 +2,9 @@
 
 - 😄 This is Tao Pu, 蒲韬 in Chinese.
 - 🏫 I am a Ph.D. student at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net).
-- 🏢 Currently join [PKU CoRe Lab](https://pku.ai/) for academic visiting, advised by [Dr. Yixin Zhu](https://yzhu.io/).
+- 🏢 Currently join [PKU CoRe Lab](https://pku.ai/) for academic visiting, advised by Dr. [Yixin Zhu](https://yzhu.io/).
 - 📫 Email: putao3@mail2.sysu.edu.cn; putao537@gmail.com
 
-[![](https://img.shields.io/badge/Tech-Resume-green?style=flat)](https://putao537.github.io/)
 <!-- updated by https://jsoncv.reorx.com/editor/ -->
 
 ### 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
