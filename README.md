@@ -12,4 +12,4 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-DB443A?style=flat-square&logo=pytorch&logoColor=ffffff)
 <!--![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=ffffff)-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=putao537.github.io)
+<a href="https://info.flagcounter.com/finN"><img src="https://s01.flagcounter.com/count2/finN/bg_FFFFFF/txt_000000/border_FFFFFF/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
