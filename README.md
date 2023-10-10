@@ -12,8 +12,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-DB443A?style=flat-square&logo=pytorch&logoColor=ffffff)
 <!--![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=ffffff)-->
 
-![](https://s01.flagcounter.com/count2/finN/bg_FFFFFF/txt_000000/border_FFFFFF/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)
-[URL=https://info.flagcounter.com/finN][IMG]https://s01.flagcounter.com/count2/finN/bg_FFFFFF/txt_000000/border_FFFFFF/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG][/URL]
+![URL=https://info.flagcounter.com/finN](https://s01.flagcounter.com/count2/finN/bg_FFFFFF/txt_000000/border_FFFFFF/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)
 
 ### 𝗦𝘁𝗮𝘁𝘀
 ![Tao Pu's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=putao537&count_private=true&show_icons=true)
