@@ -13,20 +13,3 @@
 <!--![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=ffffff)-->
 
 ![URL=https://info.flagcounter.com/finN](https://s01.flagcounter.com/count2/finN/bg_FFFFFF/txt_000000/border_FFFFFF/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)
-
-### 𝗦𝘁𝗮𝘁𝘀
-![Tao Pu's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=putao537&count_private=true&show_icons=true)
-
-<!---
-#### :microscope: Research Activities
-
-![Holistic Scene Parsing](https://img.shields.io/badge/Scene-Parsing-9cf?style=flat-square)
-![Knowledge Reasoning](https://img.shields.io/badge/Knowledge-Reasoning-9cf?style=flat-square)
-![Autonomous Robotics](https://img.shields.io/badge/Autonomous-Robotics-9cf?style=flat-square)
-
-#### :computer: Coding Activities
-
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/putao537?style=flat-square)](https://github.com/putao537)
-[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/putao537?style=flat-square)](https://github.com/putao537)
-[![Commits Badge](https://badges.strrl.dev/commits/weekly/putao537?style=flat-square)](https://github.com/putao537)
-[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/putao537?style=flat-square)](https://github.com/putao537)
