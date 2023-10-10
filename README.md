@@ -2,7 +2,7 @@
 
 - 🏫 I am a Ph.D. student at Sun Yat-sen University, advised by Prof. [Liang Lin](http://www.linliang.net).
 - 🏢 Currently join [PKU CoRe Lab](https://pku.ai/) for academic visiting, advised by Dr. [Yixin Zhu](https://yzhu.io/).
-- 📫 Email: putao3@mail2.sysu.edu.cn; putao537@gmail.com
+- 📫 Email: putao537@gmail.com; putao3@mail2.sysu.edu.cn
 
 <!-- updated by https://jsoncv.reorx.com/editor/ -->
 
