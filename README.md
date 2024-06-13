@@ -10,3 +10,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-DB443A?style=flat-square&logo=pytorch&logoColor=ffffff)
 <!--![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=ffffff)-->
+https://link.dingyueapi.net/api/v1/client/subscribe?token=0479685669d4255ee99679375de8d169
