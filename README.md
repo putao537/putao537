@@ -16,6 +16,7 @@
       <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="65" height="65" /> </a> <br>Git </td>
       <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="65" height="65" /> </a> <br>Docker </td>
       <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="65" height="65" /> </a> <br>FastAPI </td>
+      <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="65" height="65" /> </a> <br>Latex </td>
     </tr>
   </table>
 </div>
