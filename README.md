@@ -11,7 +11,7 @@
   <table align="center">
     <tr>
       <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="65" height="65" /> </a> <br>Python </td>
-      <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cplusplus" alt="c++" width="65" height="65" /> </a> <br>C++ </td>
+      <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="65" height="65" /> </a> <br>C++ </td>
       <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="65" height="65" /> </a> <br>PyTorch </td>
       <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="65" height="65" /> </a> <br>Git </td>
       <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="65" height="65" /> </a> <br>Docker </td>
