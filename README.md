@@ -9,4 +9,5 @@
 ### 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-DB443A?style=flat-square&logo=pytorch&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-DB443A?style=flat-square&logo=fatstapi&logoColor=ffffff)
 <!--![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=ffffff)-->
