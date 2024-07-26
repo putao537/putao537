@@ -11,6 +11,7 @@
   <table align="center">
     <tr>
       <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="65" height="65" /> </a> <br>Python </td>
+      <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="65" height="65" /> </a> <br>PyTorch </td>
     </tr>
   </table>
 </div>
