@@ -8,6 +8,7 @@
 
 ### 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -16,6 +17,7 @@
       <br>Python
     </td>
   </tr>
+</table>
 </div>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
