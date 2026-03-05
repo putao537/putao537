@@ -1,6 +1,6 @@
 ## Hi, I'm Tao Pu, 蒲韬 in Chinese.
 
-- 🏫 I am currently a Postdoctoral Researcher at the School of Intelligent Systems Engineering, Sun Yat-sen University, working with Prof. [Xiaodan Liang](https://lemondan.github.io/).
+- 🏫 I am currently a Postdoctoral Researcher at Sun Yat-sen University, working with Prof. [Xiaodan Liang](https://lemondan.github.io/).
 
 - 📫 Email: putao537@gmail.com; putao5@mail.sysu.edu.cn
 
