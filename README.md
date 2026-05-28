@@ -1,8 +1,7 @@
 ## Hi, I'm Tao Pu, 蒲韬 in Chinese.
 
-- 🏫 I am currently a Postdoctoral Researcher at Sun Yat-sen University, working with Prof. [Xiaodan Liang](https://lemondan.github.io/).
-
-- 📫 Email: putao537@gmail.com; putao5@mail.sysu.edu.cn
+-  I am currently an R&D Director at [X-Era AI](https://www.x-era.com/), leading research on embodied foundation models and building full-stack infrastructure for embodied AI systems. 
+- Email: putao537@gmail.com; putao5@mail.sysu.edu.cn
 
 <!-- updated by https://jsoncv.reorx.com/editor/ -->
 
