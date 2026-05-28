@@ -1,6 +1,6 @@
 ## Hi, I'm Tao Pu, 蒲韬 in Chinese.
 
--  I am currently an R&D Director at [X-Era AI](https://www.x-era.com/), leading research on embodied foundation models and building full-stack infrastructure for embodied AI systems. 
+-  I am currently an R&D Director at [X-Era AI](https://www.x-era.com/), leading foundational research on embodied AI. 
 - Email: putao537@gmail.com; putao5@mail.sysu.edu.cn
 
 <!-- updated by https://jsoncv.reorx.com/editor/ -->
